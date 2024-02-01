@@ -7,7 +7,7 @@
 
 .conteiner-principal  {
   position: relative;
-  left: 760px;
+  left: 550px;
   top: 400px;
   display: block;
   justify-content: center;
@@ -56,6 +56,6 @@ Button-Cadastrar:hover{
   color: rgb(59, 50, 50);
 }
 .divInterface {
-  width: 1900px;
+  width: 1100px;
   height: 500px;
 }
